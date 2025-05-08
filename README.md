@@ -1,2 +1,2 @@
-# penforge
-online code editor
+# PenForge
+The new and improved Online code editor
